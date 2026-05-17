@@ -1,5 +1,3 @@
-# Fruitify
-
-#Fruitify – Smart Fruit Booking App 🍎
+# Fruitify - Smart Fruit Booking App 🍎
 
 Fruitify is a modern Android application developed using Kotlin and Jetpack Compose that provides a smart and user-friendly platform for online fruit ordering and management. The application supports dual-role functionality for both customers and fruit shop owners. Customers can browse fruits, filter categories, add items to cart, place orders, track deliveries, and manage profiles, while owners can log in securely, add new fruits, and manage customer orders. The project focuses on responsive UI design, smooth navigation, and dynamic state management without using any external database or backend services, making it a complete frontend-based Android application built with modern development practices.
